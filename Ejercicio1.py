@@ -1,5 +1,5 @@
 password = "contraseña"
-user_password = input("Intrduce la contraseña: \n")
+user_password = input("Introduce la contraseña: \n")
 if user_password.lower() == password.lower()
     print("La contraseña es Correcta")
 else:
